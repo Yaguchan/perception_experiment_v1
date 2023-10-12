@@ -10,3 +10,13 @@ python make_wav.py
 ```
 python test40.py
 ```
+
+## 弁別閾グラフ化
+```
+python plot_dl.py
+```
+
+## 物理時間と感覚時間の関係グラフ化
+```
+python plot_transform_time.py
+```
