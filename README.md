@@ -7,6 +7,7 @@ python make_wav.py
 ```
 
 ## 知覚実験
+![exp_condition](https://github.com/Yaguchan/perception_experiment_v1/assets/139691814/1aa87ac7-1d9a-4db5-82fa-3c3ee16a297c)
 ```
 python test40.py
 ```
