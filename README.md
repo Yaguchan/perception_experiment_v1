@@ -8,6 +8,8 @@ python make_wav.py
 
 ## 知覚実験
 ![exp_condition](https://github.com/Yaguchan/perception_experiment_v1/assets/139691814/1aa87ac7-1d9a-4db5-82fa-3c3ee16a297c)
+二つの純音S_A,S_Bを間隔P1で二度ずつ繰り返し提示した後,
+再度S_Aを間隔P_2で提示し,このP_2がP_1に比べ短いか, ⻑いかを強制判断する
 ```
 python test40.py
 ```
